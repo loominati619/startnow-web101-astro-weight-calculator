@@ -1,0 +1,26 @@
+body{
+
+    background-image: url('planet.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }  
+
+  #h1-tag-title {
+        color: limegreen;
+        text-align: center;
+  }
+
+  #h3-tag-weight {
+      color: limegreen;
+      text-align: center;
+  }
+
+  #output {
+      color: limegreen;
+  }
+
+  #center{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
